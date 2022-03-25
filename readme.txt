@@ -7,3 +7,4 @@
 999
 000
 dev push
+remote fetch then dev push
