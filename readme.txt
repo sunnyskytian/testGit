@@ -7,4 +7,5 @@
 999
 000
 dev push
+remote fetch then dev push from first user
 dev push again from second user
